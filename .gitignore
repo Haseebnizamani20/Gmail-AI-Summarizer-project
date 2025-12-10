@@ -1,0 +1,10 @@
+credentials.json
+token.json
+env/
+.vscode/
+__pycache__/
+*.pyc
+.env
+pic1
+pic2
+help.txt
